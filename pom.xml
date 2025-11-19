@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.thiagovmdev</groupId>
-	<artifactId>aluno</artifactId>
+	<artifactId>alunoapi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>aluno</name>
 	<description>Demo project for Spring Boot</description>
